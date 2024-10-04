@@ -9,3 +9,6 @@ The allowed operations are insertion, deletion, and substitution.
 
 3. Question: You are given a list of words in lexicographically sorted order according to a dictionary. 
 Write a Python program to infer the order of characters in the dictionary (i.e., find the morphological order of the alphabet).
+
+4. Question: Given a sentence, write a Python program to identify the most probable POS tag sequence for the input using the Viterbi algorithm. 
+Train the model using the Brown corpus.
