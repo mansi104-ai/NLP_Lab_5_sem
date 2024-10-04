@@ -1,0 +1,11 @@
+1. Question: Write a Python program to tokenize the following text and perform the following operations:
+Count the number of tokens.
+Generate the frequency distribution of words.
+Identify the words and their corresponding POS tags.
+
+2.Question: Write a Python program to compute the minimum edit distance between two words.
+Use the dynamic programming approach to find the number of operations required to convert one word into another.
+The allowed operations are insertion, deletion, and substitution.
+
+3. Question: You are given a list of words in lexicographically sorted order according to a dictionary. 
+Write a Python program to infer the order of characters in the dictionary (i.e., find the morphological order of the alphabet).
